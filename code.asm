@@ -1,9 +1,6 @@
-.MODEL small   
-
-.STACK 4096    
-
+.MODEL small  
+.STACK 
 .DATA
-
     Hellostr DB 'Hello, world!', 13, 10, '$'
 
 .CODE
