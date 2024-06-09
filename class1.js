@@ -1,6 +1,6 @@
-class Example {
+class Class1 {
     constructor() {
-        this.name = 'Example';
+        this.name = 'Class1';
     }
     getName() {
         return this.name;
