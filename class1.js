@@ -3,6 +3,6 @@ class Class1 {
         this.name = 'Class1';
     }
     getName() {
-        return this.name;
+        return this.name + ' from Class1';
     }
 }
